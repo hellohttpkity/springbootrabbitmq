@@ -23,5 +23,6 @@ public class PersonTet {
     private String name;
     private String publishTIme;
     private String publishTIme2;
+    private String publishTIme3;
 
 }
