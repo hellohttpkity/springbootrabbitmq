@@ -22,5 +22,6 @@ public class PersonTet {
     private int id;
     private String name;
     private String publishTIme;
+    private String publishTIme2;
 
 }
