@@ -1,0 +1,12 @@
+logging:
+#  pattern:
+#    console:
+#  group:
+#    ebank: com.cxb.springbootrabbitmq.config
+#  level:
+#    ebank: warn
+  file:
+    name: server.log
+person:
+  id: ${random.int}
+  name : 张三
